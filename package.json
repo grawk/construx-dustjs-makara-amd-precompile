@@ -1,6 +1,6 @@
 {
   "name": "construx-dustjs-makara-amd-precompile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "pre-compiler for construx-dustjs middleware in makara/amd context",
   "main": "index.js",
   "scripts": {
